@@ -21,3 +21,7 @@ document
 document
   .querySelector("#green")
   .addEventListener("click", bgColorGreen)
+
+document
+  .querySelector("#reset")
+  .addEventListener("click", () => document.body.style.background = null)
