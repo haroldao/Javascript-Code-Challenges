@@ -1,3 +1,4 @@
+console.log("\nVegetarian Dinner\n");
 const menu = [
   {
     name: "Eggplant Parmesan",
