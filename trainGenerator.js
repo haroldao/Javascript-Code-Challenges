@@ -22,6 +22,3 @@ nextStopBtn.addEventListener("click", () => {
     console.log(currStop.value)
   }
 })
-
-console.log(nycTrainline)
-console.log(nycTrainline.next())
